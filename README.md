@@ -1,8 +1,6 @@
 ### Olá, meu nome é Wilson Seabra ✋
 Atuo como Front End em uma empresa de tecnologia sediada em Belo Horizonte
 
-#### Talk with me
-
 [![Personal Site](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](http://www.taprapeixe.com.br)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](http://wa.me/5531971484504)
 
