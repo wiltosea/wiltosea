@@ -1,5 +1,28 @@
 ## Olá, meu nome é Wilson Seabra ✋
-Atuo como Front End em uma empresa de tecnologia sediada em Belo Horizonte e como freelancer para projetos Web.
+
+Sou Desenvolvedor WEB, especialista em desenvolvimento Front End com formação pela PUC Minas e tenho paixão por criar experiências digitais intuitivas e visualmente impactantes.
+
+Ao longo da minha carreira, tive a oportunidade de atuar em projetos desafiadores que me ajudaram a desenvolver uma série de habilidades e conhecimentos.
+
+## Experiência Profissional:
+
+Vetta Tecnologia: Trabalho como Desenvolvedor Especialista em projetos de alto impacto para clientes como Vetta, Banco Mercantil e Ipiranga. Eu colaboro com a concepção e implementação de soluções inovadoras usando as mais modernas tecnologias.
+
+Outras Experiências: Atuei previamente em projetos e empresas de todos os tamanhos, de pequenas startups a grandes corporações, o que me proporcionou uma visão abrangente dos desafios e soluções no desenvolvimento web.
+
+## Principais Competências:
+
+Tecnologias Front End: Domínio de tecnologias HTML, CSS, JavaScript, React e seu ecosistema.
+Backend: Nodejs, Javascript e Typescript.
+Design Responsivo: Experiência em criar interfaces para se adaptar a dispositivos e tamanhos de tela diferentes.
+Metodologias Ágeis: Boa experiência em projetos com práticas como Scrum e Kanban, garantindo entregas rápidas e de qualidade.
+Colaboração e Liderança: Facilidade para trabalhar em equipe e liderar projetos, com o objetivo de garantir a entrega de soluções eficazes e eficientes.
+
+## Valores e Motivações:
+
+Minha motivação é a curiosidade: sempre busco aprender e me desenvolver profissionalmente. Acredito que a inovação vem da combinação de conhecimento técnico com criatividade e estou constantemente procurando formas de aprimorar minhas habilidades e contribuir para o sucesso dos projetos nos quais trabalho.
+
+Estou sempre em busca de novas oportunidades e desafios onde eu possa utilizar minha experiência e criatividade para desenvolver soluções que fazem diferença.
 
 #### Fale comigo por aqui:
 [![Personal Site](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](http://www.taprapeixe.com.br)
