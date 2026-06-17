@@ -4,12 +4,6 @@ Sou Desenvolvedor WEB, especialista em desenvolvimento Front End com formação 
 
 Ao longo da minha carreira, tive a oportunidade de atuar em projetos desafiadores que me ajudaram a desenvolver uma série de habilidades e conhecimentos.
 
-## Experiência Profissional:
-
-Vetta Tecnologia: Trabalho como Desenvolvedor Especialista em projetos de alto impacto para clientes como Vetta, Banco Mercantil e Ipiranga. Eu colaboro com a concepção e implementação de soluções inovadoras usando as mais modernas tecnologias.
-
-Outras Experiências: Atuei previamente em projetos e empresas de todos os tamanhos, de pequenas startups a grandes corporações, o que me proporcionou uma visão abrangente dos desafios e soluções no desenvolvimento web.
-
 ![Wilson Seabra's GitHub stats](https://github-readme-stats.vercel.app/api?username=wiltosea&layout=compact&show_icons=true&theme=tokyonight)
 
 ## Tecnologias que uso no meu dia
