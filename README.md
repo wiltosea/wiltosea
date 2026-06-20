@@ -1,11 +1,24 @@
-## Olá, meu nome é Wilson Seabra ✋
+## Hi, my name is Wilson Torres Seabra or Wiltosea ✋
 
-Sou Desenvolvedor WEB, especialista em desenvolvimento Front End com formação pela PUC Minas e tenho paixão por criar experiências digitais intuitivas e visualmente impactantes.
+Fullstack Developer, DX/UX/CX Developer and problem solver.
 
-Ao longo da minha carreira, tive a oportunidade de atuar em projetos desafiadores que me ajudaram a desenvolver uma série de habilidades e conhecimentos.
+- 🔭 I’m currently working on ![DX System](https://dxsystem.com), ![Tá Pra Peixe](https://taprapeixe.com.br) and ![Matriculaí](https://matriculai.com.br)
 
-![Wilson Seabra's GitHub stats](https://github-readme-stats.vercel.app/api?username=wiltosea&layout=compact&show_icons=true&theme=tokyonight)
+- 🌱 I’m currently learning Golang and Rust
 
+- 💬 Ask me about NodeJs, ReactJs, SQL, noSQL, Linux or DevOps
+
+- 📫 How to reach me wilsontseabra@gmail.com
+
+- ⚡ Fun fact I`m a Bassman
+<hr/>
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/wilson-seabra" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="thicode" height="30" width="40" /></a>
+<a href="https://instagram.com/taprapeixe" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="thi.code" height="30" width="40" /></a>
+<a href="https://www.youtube.com/@wiltorres" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@thicode.channel" height="30" width="40" /></a>
+</p>
+<hr/>
 ## Tecnologias que uso no meu dia
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
