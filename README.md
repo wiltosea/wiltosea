@@ -2,7 +2,7 @@
 
 Fullstack Developer, DX/UX/CX Developer and problem solver.
 
-- 🔭 I’m currently working on ![DX System](https://dxsystem.com), ![Tá Pra Peixe](https://taprapeixe.com.br) and ![Matriculaí](https://matriculai.com.br)
+- 🔭 I’m currently working on [DX System](https://dxsystem.com), ![Tá Pra Peixe](https://taprapeixe.com.br) and ![Matriculaí](https://matriculai.com.br)
 
 - 🌱 I’m currently learning Golang and Rust
 
